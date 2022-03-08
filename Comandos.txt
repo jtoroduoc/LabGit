@@ -1,0 +1,3 @@
+git init : inicializa carpeta raiz con versionamiento.
+git status : muestra estatus de nuevos y modificaciones de archivos.
+git add [archivos o .] : versiona todos o el archivos agregado o modificados.
