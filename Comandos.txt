@@ -2,7 +2,7 @@ git init : inicializa carpeta raiz con versionamiento.
 git status : muestra estatus de nuevos y modificaciones de archivos.
 git add [archivos o .] : versiona todos o el archivos agregado o modificados.
 git commit -m "Comentario de versionamiento": Confirmar y documentar versionamientos.
-
+git push origin [rama_del_repositorio] : Publica todos los cambios realizados anteriormente.
 
 Configuración global de git
 git config --global user.email "you@example.com"
